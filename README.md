@@ -1,5 +1,5 @@
 # hello-world
-My First HelloWorld Repository
+This is my first helloworld project
 
 This is the branch of Master
 
